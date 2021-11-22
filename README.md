@@ -5,7 +5,7 @@ It can alleviate the mode collapse problem.
 
 The paper can be accessed here: [HSGAN: Reducing mode collapse in GANs by the latent code distance of homogeneous samples](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001570)
 
-#Prerequisites
+Prerequisites
 ------
 * Python 3.6+
 * Tensorflow 2.2+
